@@ -1,0 +1,11 @@
+[*] Starting stream cipher attack...
+[+] POSSIBLE DECRYPTION:
+
+{"
+  ubC,$qS`\\we}!+7TYeF|"uKu4B&*'Qd\
+ 1|%%:
+      w1G|swg\^s?B|#"RfW{b,*'U7Y?B.'%Q:
+                                       `I{&%[aV^Kr0F,t#d6G)qp0Q^H"?)%q5VYL!`|''[5
+                            scC)$qUcS[O!3yswgR  &4H-"qWg^Hsg+&"ZqdG*'qW5]%2D-'qZ`HpbI*&%S1R   `C&!*S`Q[0D|"q5\Ys7A+"$T4\K"g(' 5WYL{`Fz% 7\bE*#w2v`B+#+`]%3@+'uU5W      Iz`~$pRfq>G~$vP3T[ 7@/s'4^u7G~$!ZdRq?B(p&3>-qrcD~&rQd^'6H)%&1U `}+'W3R]Ls2B/wvaSN'4@*+p2UYL c-!wW4weD,!*cL 3D~qr1
+                5D~$#V4
+                       K
